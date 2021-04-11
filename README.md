@@ -1,6 +1,6 @@
-# myfd8
+# my Dancing Dice
 
-A new Flutter project.
+![](images/app.png)
 
 ## Getting Started
 
