@@ -1,7 +1,6 @@
 # my dancing dice App
-<p align="center">
+
 ![](images/app.png)
-</p>
 
 ## Getting Started
 
