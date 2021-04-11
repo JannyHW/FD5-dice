@@ -1,4 +1,4 @@
-# my Dancing Dice
+# my dancing dice App
 
 ![](images/app.png)
 
